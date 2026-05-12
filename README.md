@@ -4,7 +4,6 @@
 ---
 
 ## 📊 Overview
-
 This project analyzes veterinary pharmacy inventory performance using Power BI to monitor stock levels, supplier contribution, and product movement.
 
 The dashboard helps identify inventory trends, supplier performance, and operational issues affecting stock availability and inventory value.
