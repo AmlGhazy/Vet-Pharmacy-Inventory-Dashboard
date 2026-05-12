@@ -1,5 +1,5 @@
 <img align="right" width="320" src="images/overview.png">
-# 🐾 Vet Pharmacy Inventory Dashboard
+🐾 Vet Pharmacy Inventory Dashboard
 
 ---
 
